@@ -2,6 +2,18 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+
+🚀 Vue 3 Boilerplate - TypeScript, Tailwind CSS, Vite, Pinia ⚡️ Made with developer experience first: ESLint, Prettier, VSCode, PostCSS
+
+- 🎁 Tailwind Css combine with Scss
+- 🗂 VSCode configuration: Debug, Settings, Tasks and extension for PostCSS, ESLint, Prettier, TypeScript, Jest
+- 🚓 Friendly structure
+- 🚫 Lint-staged for running linters on Git staged files
+- 💡 Auto inport
+- 📏 Linter with ESLint for Vue, Typescript
+- 💡 Axios interceptors
+
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
